@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bvr:home|Door43 (bvr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bvr|d43-bvr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bvr/archive/master.zip|d43-bvr.zip]]
+
+**Recent Changes**
+{{changes>ns = bvr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bvr|Ethnologue data]]
+
